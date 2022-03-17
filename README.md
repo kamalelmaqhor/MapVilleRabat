@@ -1,2 +1,2 @@
-# MapVilleRabat
-Projet de WebMapping de la ville Rabat
+# ProjetWebMapping
+Projet Web Mapping de la promotion 2022
